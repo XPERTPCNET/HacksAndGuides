@@ -94,7 +94,7 @@ Python-imaging was replaced with Python-pil and is no longer needed. Please remo
 sudo nano /var/lib/dpkg/
 ```
 >Search for "Package: kimchi".
-  On line with "Depends:"" clause, replace python-imaging with python-pil.
+  On line with "Depends:" clause, replace python-imaging with python-pil.
   Save file.
 
 ## Fix Bug with Template creation with Ubuntu 18.04 Template
