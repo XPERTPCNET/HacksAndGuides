@@ -164,7 +164,7 @@ Check status of Odoo 12 Service
 sudo systemctl status odoo12
 ```
 Should look something like this.....
-![a2253feb.png](attachments\a2253feb.png)
+![a2253feb.png](attachments/a2253feb.png)
 
 Goto the website and fill out the new database creation form:
 
