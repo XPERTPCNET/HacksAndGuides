@@ -1,4 +1,4 @@
-# Installing Saltstack Salt Master/Minion with Salt Bootstrap
+# Saltstack Salt Bootstrap Install
 The Salt Bootstrap script allows for a user to install the Salt Minion or Master on a variety of system distributions and versions. This shell script known as bootstrap-salt.sh runs through a series of checks to determine the operating system type and version. It then installs the Salt binaries using the appropriate methods. The Salt Bootstrap script installs the minimum number of packages required to run Salt. This means that in the event you run the bootstrap to install via package, Git will not be installed. Installing the minimum number of packages helps ensure the script stays as lightweight as possible, assuming the user will install any other required packages after the Salt binaries are present on the system. The script source is available on GitHub: https://github.com/saltstack/salt-bootstrap
 
 ---
@@ -140,3 +140,5 @@ $ sh bootstrap-salt.sh -h
   -b  Assume that dependencies are already installed and software sources are set up.
       If git is selected, git tree is still checked out as dependency step.
 ```
+
+> This document was created using the guides from Saltstack: https://docs.saltstack.com/en/2015.8/topics/tutorials/salt_bootstrap.html
