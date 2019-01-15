@@ -121,3 +121,8 @@ ssh-minion:
   ```
   sudo ssh-copy-id -i /etc/salt/pki/master/ssh/salt-ssh.rsa.pub <user>@<PRIVATE IP OF SSH MINION>
   ```
+  #### Test salt-ssh minion
+  ```
+  sudo salt-ssh '*' test.ping
+  ```
+  
