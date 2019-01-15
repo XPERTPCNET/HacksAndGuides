@@ -1,4 +1,4 @@
-# Installing Odoo v12 Community Edition on Ubuntu 18.04, NGINX Proxy, SSL
+# Odoo v12 CE on Ubuntu 18.04, NGINX Proxy
 
 **This tutorial assumes you have a working install of Ubuntu 18.04 and root access.**
 
@@ -163,11 +163,7 @@ Check status of Odoo 12 Service
 ```
 sudo systemctl status odoo12
 ```
-Should look something like this.....
->
-![a2253feb.png](attachments/a2253feb.png)
 
-Goto the website and fill out the new database creation form:
-
+>Goto the website and fill out the new database creation form:
 Use the IP of your server on port 8069:
 > http://127.0.0.1:8069
