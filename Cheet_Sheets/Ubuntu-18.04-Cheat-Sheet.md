@@ -1,4 +1,4 @@
-# Ubuntu 18.04 Cheat Sheet
+# Ubuntu-18.04-Cheat-Sheet
 
 ## Update Ubuntu
 ```

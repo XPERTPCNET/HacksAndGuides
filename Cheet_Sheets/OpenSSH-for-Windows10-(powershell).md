@@ -1,4 +1,4 @@
-# OpenSSH server and client on Windows 10 (powershell)
+# OpenSSH-for-Windows10-(powershell)
 
 ## Check to see if it is already installed:
 ``` 

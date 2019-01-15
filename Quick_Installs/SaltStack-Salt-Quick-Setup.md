@@ -1,4 +1,4 @@
-# SaltStack Salt Quick Setup
+# SaltStack-Salt-Quick-Setup
 
 ## Install Salt Master with Minion
 ```

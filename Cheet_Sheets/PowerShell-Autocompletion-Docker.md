@@ -1,4 +1,4 @@
-## PowerShell Autocompletion for Docker
+## PowerShell-Autocompletion-Docker
 * Open Powerhsell as Administrator
 ```
 Set-ExecutionPolicy RemoteSigned

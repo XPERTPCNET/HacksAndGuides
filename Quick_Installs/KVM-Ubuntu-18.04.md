@@ -1,4 +1,4 @@
-# KVM server with Ubuntu 18.04
+# KVM-Ubuntu-18.04
 
 Kernel-based Virtual Machine (KVM) is a linux based virtualization technology tha turns your linux server into a hypervisor. It is light, stable, flexible and free!
 

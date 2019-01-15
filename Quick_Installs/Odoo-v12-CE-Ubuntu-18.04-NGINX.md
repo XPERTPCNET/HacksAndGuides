@@ -1,4 +1,4 @@
-# Odoo v12 CE on Ubuntu 18.04, NGINX Proxy
+# Odoo-v12-CE-Ubuntu-18.04-NGINX
 
 **This tutorial assumes you have a working install of Ubuntu 18.04 and root access.**
 
