@@ -42,7 +42,7 @@ sudo swapoff -a
 ````
 > This is not persistent across host restarts so add to /etc/fstab accordingly for persistence.
 ```
-sudo sed -i '/ swap / s/^/#/' /etc/fstab
+sudo sed -i '/swap/ s/^/#/' /etc/fstab
 
 # Comment out for swap line looks like this on my VM:
 ----------------------------------------------------
